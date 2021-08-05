@@ -3,15 +3,22 @@
 
 ## Summary
 
-Two sentences about who you are and what you’d like to build. Indicate if you are building a Light Gateway, or a Full Gateway. Bonus points to include photos and links. 
+Founded in 2009, Shenzhen Weimaisi Technology Co., Ltd. is a high-tech enterprise integrating R & D, production, sales and service; it is one of the earliest, largest and most powerful security high-tech enterprises in China.
+     Shenzhen Weimaisi Technology Co., Ltd. is a global provider of hardware and software solutions for the Internet of Things (IoT) and out-of-band management (OOBM). Weimaisi Technology enables customers to provide smart, reliable and secure IoT and OOBM solutions while accelerating time to market. Bailingjia Technology greatly simplifies the creation, development, deployment, and management of IoT projects while providing quality, reliability, and security across hardware, software, and solutions.
 
 ## Company Information (required)
 
 * What is your company name? 
+ Shenzhen Weimaisi Technology Co., Ltd.
 * How long have you been in business? 
+12 years
 * What kind of products have you created? 
+Over the years, it has been devoted to the research and development of smart fire fighting, smart fire fighting solutions, smart fire fighting cloud platform, fire equipment access to cloud platform system, smart home security product research and development, production and sales, with core technology of independent intellectual property rights. NB-IOT intelligent Internet of Things fire alarm system, one-click call alarm system, WIFi / TCP / IP intelligent security alarm system, APP and server software development services, 3G / 4G / GSM / CDMA alarm system, video monitoring system, power transformer and Cable anti-theft alarm system, computer room data monitoring and prevention system, networked alarm center management platform, etc. Production and sales of various detector accessories. Products include infrared and infrared detectors, smoke sensors, gas detectors, door magnets, emergency switches, sirens and other products.
+
 * How many have you sold? 
+More than 10,000.
 * What brought you to Helium etc?
+Helium has more and more hot spots in China. Helium is a very well-known blockchain project. We hope to cooperate with Helium.
 
 ## Product Information (required)
 
